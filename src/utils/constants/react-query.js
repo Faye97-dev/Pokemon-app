@@ -1,0 +1,6 @@
+export const REACT_QUERY_RETRY = 1;
+
+// pokemons
+export const QUERY_POKEMONS = "QUERY_POKEMONS";
+export const QUERY_TYPE_POKEMONS = "QUERY_TYPE_POKEMONS";
+export const QUERY_POKEMONS_ID = "QUERY_POKEMONS_ID";
